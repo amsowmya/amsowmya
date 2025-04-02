@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amsowmya&label=Profile%20views&color=0e75b6&style=flat" alt="amsowmya" /> </p>
 
-- 🔭 I have technical experience and interest in: **Deep Learning, Machine Learning, Computer vision, Natural Language Processing**
+- 🔭 I have technical experience and interest in: **Deep Learning, Machine Learning, Computer vision, Natural Language Processing, Generative AI**
 
 - 📫 How to reach me **sowmya.anekonda@gmail.com**
 
